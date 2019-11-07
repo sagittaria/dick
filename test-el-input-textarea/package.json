@@ -1,3 +1,4 @@
+// 用来测vue-video-player视频画面抖动问题的
 {
   "name": "test-el-input-textarea",
   "version": "0.1.0",
